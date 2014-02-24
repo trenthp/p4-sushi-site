@@ -38,9 +38,43 @@ div.gmap {
 	font-size: 1em;
 }
 
+.menu7,
+.menu9,
+.menu10,
+.menu12 {
+	text-align: center;
+}
+
+.menu7 h4,
+.pricing-table .menu7 {
+	background: yellow;
+}
+
+.menu9 h4,
+.pricing-table .menu9 {
+	background: lightblue;
+}
+
+.menu10 h4,
+.pricing-table .menu10 {
+	background: red;
+}
+
+.menu12 h4,
+.pricing-table .menu12 {
+	background: green;
+}
+
 .menuimg img {
 	width: 100%;
 	height: 100%;
+}
+
+.pricing-table .menu7,
+.pricing-table .menu9,
+.pricing-table .menu10,
+.pricing-table .menu12 {
+	color: #333;
 }
 
 .button {
